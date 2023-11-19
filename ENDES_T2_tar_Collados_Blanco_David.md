@@ -35,20 +35,6 @@ Tras realizar el commit, utilicé git status para consultar el estado del reposi
 
 ## Subtarea 2: Comparación de dos IDEs o editores de texto
 
-Recomendación: Es buena costumbre, además de guardar periódicamente nuestro archivo a medida que
-trabajamos, actualizar nuestro repositorio cada vez que se haga un cambio relevante en el código. En este caso,
-aun tratándose de un archivo de texto, podemos hacer varios commits que reflejen el avance de la tarea.
-Cuando yo acceda a vuestro repositorio, debería ver al menos tres commits en distintas fases, pero podéis
-hacer los que creáis oportunos.
-
-Elige dos IDEs o editores de texto. Realiza una comparación de estos atendiendo a:
-• Lenguajes de programación compatibles.
-• Facilidad de uso.
-• Depuración.
-• Gestión de versiones.
-• Personalización y extensibilidad.
-• Otros aspectos que te resulten de interés.
-
 ### Visual Studio Code vs Eclipse
 
 #### Lenguajes de programación compatibles
@@ -57,10 +43,24 @@ Visual Studio Code admite una amplia variedad de lenguajes de programación grac
 
 #### Facilidad de uso
 
+La facilidad es un aspecto subjetivo y también depende del uso que le demos al IDE y el objetivo que tengamos en mente. VS Code es, en general, más fácil de usar que Eclipse. Esto se debe a su interfaz más minimalista e inicio rápido, especialmente para tareas más simples o proyectos pequeños. Eclipse puede ser más poderoso, pero cuenta con una configuración inicial e interfaz que podrían resultar complejas a algunos usuarios. Personalmente, VS Code me ayuda mucho a la hora de trabajar con Python, HTML o CSS. Sin embargo, me resulta un poco dificil a la hora de trabajar con Java, por lo que opto por usar Eclipse o NetBeans para ese propósito.
 
+#### Depuración
+
+VS Code proporciona una interfaz de depuración intuitiva y fácil de usar. La barra lateral muestra información detallada sobre variables, expresiones y el estado actual del programa durante la ejecución. Eclipse tiene una perspectiva de depuración que ofrece una cantidad mayor de herramientas que VS Code, destacando la visualización de variables y el control de la ejecución como componentes clave. En ambos IDEs podemos utilizar breakpoints de manera similar. En cuanto a extensiones para depuración, VS Code extienden el soporte a una gama más amplia de lenguajes y entornos de ejecución, mientras que Eclipse cuenta con herramientas más poderosas para la depuración de Java.
+
+#### Gestión de versiones
+
+VS Code destaca por la integración fluida con varios sistemas de control de versiones, sobretodo con Git. La interfaz de usuario es bastante intuitiva y ofrece funciones como visualizar, confirmar cambios y la sincronización con repositorios remotos. Eclipse también cuenta con soporte integrado para varios sistemas de control de versiones como Git, SVN... aunque puede requerir la instalación de complementos adicionales. También cabe destacar que VS Code tiene una integración nativa con GitHub que facilita la colaboración y el trabajo en equipo. Eclipse también cuenta con integración con GitHub.
+
+#### Personalización y extensibilidad
+
+Eclipse ofrece una alta personalización a través de perspectivas y vistas. Puedes organizar y ajustar las vistas en función de tus necesidades, así como cambiar el tema y la apariencia mediante la instalación de temas y plugins para extender sus capacidades a diferentes lenguajes y tecnologías. La personalización en VS Code se realiza principalmente a través de extensiones. Estas pueden agregar funcionalidades para diferentes lenguajes de programación, herramientas, temas y más. 
 
 ## Subtarea 3: Tu herramienta favorita.
 
 Elige el componente de IDE o herramienta CASE que crees que te va a ahorrar más trabajo o facilitar más la
 vida en tu labor como programador. Justifica tu elección. No hay respuestas correctas o incorrectas; lo
 importante es cómo justificas tu opinión
+
+Dentro de cada IDE hay una gran cantidad de herramientas que nos facilitan nuestra labor y nos ayudan a ahorrar tiempo. La herramienta que personalmente me proporciona más ayuda son los sistemas de control de versiones. 
