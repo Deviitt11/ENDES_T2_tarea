@@ -49,10 +49,15 @@ Elige dos IDEs o editores de texto. Realiza una comparación de estos atendiendo
 • Personalización y extensibilidad.
 • Otros aspectos que te resulten de interés.
 
-### Visual Studio Code
+### Visual Studio Code vs Eclipse
+
+#### Lenguajes de programación compatibles
+
+Visual Studio Code admite una amplia variedad de lenguajes de programación gracias a sus extensiones. Algunos de estos lenguajes son: Java, Python, JavaScript, HTML, CSS, C#, entre muchos más. Mientras que Eclipse es un entorno de desarrollo más tradicional y está basado en el desarrollo de Java. Sin embargo, existen plugins para lenguajes como Python, PHP, C...
+
+#### Facilidad de uso
 
 
-### Eclipse
 
 ## Subtarea 3: Tu herramienta favorita.
 
