@@ -33,9 +33,6 @@ Tras realizar el commit, utilicé git status para consultar el estado del reposi
 
  ![Alt text](image-5.png)
 
-
-
-
 ## Subtarea 2: Comparación de dos IDEs o editores de texto
 
 Recomendación: Es buena costumbre, además de guardar periódicamente nuestro archivo a medida que
@@ -43,16 +40,19 @@ trabajamos, actualizar nuestro repositorio cada vez que se haga un cambio releva
 aun tratándose de un archivo de texto, podemos hacer varios commits que reflejen el avance de la tarea.
 Cuando yo acceda a vuestro repositorio, debería ver al menos tres commits en distintas fases, pero podéis
 hacer los que creáis oportunos.
+
 Elige dos IDEs o editores de texto. Realiza una comparación de estos atendiendo a:
 • Lenguajes de programación compatibles.
 • Facilidad de uso.
-ENTORNOS DE DESARROLLO
-TAREA 2
-www.tuniversformacion.es 2
 • Depuración.
 • Gestión de versiones.
 • Personalización y extensibilidad.
 • Otros aspectos que te resulten de interés.
+
+### Visual Studio Code
+
+
+### Eclipse
 
 ## Subtarea 3: Tu herramienta favorita.
 
